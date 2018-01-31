@@ -3,12 +3,7 @@
 This is the first file in this repo
 
 
-## Ipsum Below
+## Website Contents
 
-asdfasdfasdfasdf
- asdfasdfa sdfasdf
+1. index.html
 
-### Ipsum asdfasdf
-asdfasdfas
-
-asdfasdf
